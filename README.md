@@ -1,2 +1,2 @@
-reposy
+plugin for no trackning social 
 ======
